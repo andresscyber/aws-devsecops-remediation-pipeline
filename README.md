@@ -270,7 +270,7 @@ CloudWatch Logs record the event payload, compliance status, affected bucket, an
 ## TFLint Validation
 
 <p align="center">
-<img src="screenshots/03-tflint/01-tflint-validation-passed.png" width="900">
+<img src="screenshots/03-tflint/01-tflint-success.png" width="900">
 </p>
 
 **Figure 4:** TFLint validates Terraform syntax and configuration best practices with no issues detected.
